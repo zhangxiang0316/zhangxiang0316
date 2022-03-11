@@ -9,5 +9,5 @@
 [Echarts 案例](http://echarts.zhangmuchen.top)
 
 
-[小说阅读] (http://book.zhangmuchen.top)
+[小说阅读](http://book.zhangmuchen.top)
 

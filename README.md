@@ -11,3 +11,6 @@ echarts 案例集锦，支持在线修改，查看属性，下载案例到本地
 
 手机端在线小说阅读，支持听书功能，多种书源支持。 地址： [小说阅读](http://book.zhangmuchen.top)
 
+
+element-ui 封装  表单拖拽系统 ，地址： [表单]（https://zhangxiang0316.github.io/vueUtils/#/form）
+

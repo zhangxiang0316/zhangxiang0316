@@ -17,3 +17,19 @@ Vue3手机端在线小说阅读 在线地址： [小说阅读](http://book.zhang
 
 element-ui 封装  表单拖拽系统 ，地址： [表单系统](https://zhangxiang0316.github.io/vueUtils/#/form)  源码:  [源码](https://github.com/zhangxiang0316/vueUtils)
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
